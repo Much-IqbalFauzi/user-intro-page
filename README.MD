@@ -6,7 +6,9 @@ This is simple course project with bootstrapped with [Create React App](https://
 
 - [x] Resoleve side effect using useEffect Hook
 - [x] useEffect Cleanup Function
-- [x] ...
+- [x] useContext, Dynamic Context, Context Limitation 
+- [x] forwardRefs
+- [x] Refactoring input
 
 ## Available Scripts
 
